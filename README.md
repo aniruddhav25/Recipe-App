@@ -29,9 +29,9 @@ The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
 
->**Features:**
-1.Search your favourite recipes
-2.Get the total amount of ingredients required on basis of your servings.
-3.Maintain a shopping list of the ingredients
-4.Add recipes to your favourite list.(Used browser local storage.List remains intact even if you refresh the browser.)
+>**Features:**\
+1.Search your favourite recipes\
+2.Get the total amount of ingredients required on basis of your servings.\
+3.Maintain a shopping list of the ingredients\
+4.Add recipes to your favourite list.(Used browser local storage.List remains intact even if you refresh the browser).
 
